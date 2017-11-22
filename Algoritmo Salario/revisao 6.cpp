@@ -34,4 +34,4 @@ printf("\nO novo salario e: %f",salario);
 }
 
 getche();
-}
+} // teste 2 nos algoritmos//
