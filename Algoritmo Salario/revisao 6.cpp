@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 
-main(){
+main(){// estou testando as modificaçoes dos algoritmos MOD 1
 
 float salario,i,num;
 
