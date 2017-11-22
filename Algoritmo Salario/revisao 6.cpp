@@ -3,7 +3,7 @@
 
 main(){    // Modificações no algoritmo da minha branch 2
 
-float salario,i,num;
+float salario,i,num; // MOdificações no algoritmo 1
 
 printf("Informe o numero de funcionarios: ");
 scanf("%f",&num);
