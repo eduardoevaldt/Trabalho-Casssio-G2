@@ -1,9 +1,12 @@
 #include <stdio.h>
 #include <conio.h>
 
+
 // Modificações no algoritmo da minha branch 2
 // estou testando as modificaçoes dos algoritmos MOD 1
-main(){
+
+main(){    // Modificações no algoritmo da minha branch 2  
+
 
 float salario,i,num; // MOdificações no algoritmo 1
 
