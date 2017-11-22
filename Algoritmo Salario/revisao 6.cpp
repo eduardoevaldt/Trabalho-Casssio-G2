@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <conio.h>
 
-main(){    // Modificações no algoritmo da minha branch 2
+// Modificações no algoritmo da minha branch 2
+// estou testando as modificaçoes dos algoritmos MOD 1
+main(){
 
 float salario,i,num; // MOdificações no algoritmo 1
 
@@ -34,4 +36,4 @@ printf("\nO novo salario e: %f",salario);
 }
 
 getche();
-}
+} // teste 2 nos algoritmos//
