@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 
-main(){    // Modificações no algoritmo da minha branch 2
+main(){    // Modificações no algoritmo da minha branch 2  //Modificações para conflito
 
 float salario,i,num; // MOdificações no algoritmo 1
 
